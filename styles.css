@@ -50,23 +50,3 @@ h3.price-produto > span {
 .soma-produto {
     margin: 20px;
 }
-
-@media screen and (max-width: 1200px) {
-    .lista-cadastro {
-        margin: 0;
-        padding: 0;
-        display: block;
-    }
-
-    .lista-cadastro input {
-        padding: 20px;
-        display: block;
-        border-radius: 10px;
-        margin-left: 20%;
-        margin-top: 10px;
-    }
-
-    .lista-cadastro input[type=submit]{
-        margin-left: 35%;
-    }
-}
